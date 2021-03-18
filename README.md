@@ -1,0 +1,3 @@
+# opencv
+
+./videostab input.avi
